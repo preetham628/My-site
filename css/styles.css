@@ -35,6 +35,7 @@ hr {
   border-color: grey;
   width: 4%;
   margin: 100px auto;
+  clear: both;
 }
 .top-container {
   background-color: #EAF6F6;
