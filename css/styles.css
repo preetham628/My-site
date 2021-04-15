@@ -40,7 +40,7 @@ hr {
 .top-container {
   background-color: #EAF6F6;
   position: relative;
-  padding: 100px;
+  padding: 100px 0 0 0;
 }
 
 .middle-container {
@@ -88,7 +88,7 @@ hr {
 .bottom-cloud {
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  bottom: 400px;
 }
 
 .skill-row {
@@ -142,4 +142,23 @@ hr {
    -moz-border-radius: 8px;
    border-radius: 8px;
    text-decoration: none;
+}
+
+.github-icon {
+  width: 30px;
+}
+
+.github-icon:hover {
+  background-color: white;
+  border-radius: 30px;
+}
+
+.insta-icon {
+  width: 30px;
+
+}
+
+.insta-icon:hover {
+  background-color: white;
+  border-radius: 10px;
 }
